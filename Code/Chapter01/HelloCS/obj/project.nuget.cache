@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOdv2O0V5pKBW6iIN/YK/B1k2wWlidY/qVNZpNTDzdi7R7pw9Mr6fe5b1CwWANu2JuMj3OTcAIZGp7K3HjpJzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\01 Current Documents\\2020 - 2021\\dotnet_text_book\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

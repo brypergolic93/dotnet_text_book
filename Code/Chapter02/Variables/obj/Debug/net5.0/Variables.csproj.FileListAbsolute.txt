@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache

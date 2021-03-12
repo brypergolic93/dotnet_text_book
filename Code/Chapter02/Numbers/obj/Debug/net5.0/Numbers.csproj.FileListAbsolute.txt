@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ref\ChapterExercises.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\bin\Debug\net5.0\ChapterExercises.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ref\ChapterExercises.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\ChapterExercises\obj\Debug\net5.0\ChapterExercises.genruntimeconfig.cache

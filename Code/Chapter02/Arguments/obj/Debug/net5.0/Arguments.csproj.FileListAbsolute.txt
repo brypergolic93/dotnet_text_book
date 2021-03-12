@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache
