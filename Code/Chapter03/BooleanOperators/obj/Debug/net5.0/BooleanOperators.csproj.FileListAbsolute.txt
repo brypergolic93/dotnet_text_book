@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.genruntimeconfig.cache

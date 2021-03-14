@@ -1,0 +1,16 @@
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.csprojAssemblyReference.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\Bryan\01 Current Documents\2020 - 2021\dotnet_text_book\Code\Chapter03\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
