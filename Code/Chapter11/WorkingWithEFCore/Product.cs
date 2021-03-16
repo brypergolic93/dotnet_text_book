@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Packt.Shared
 {
-    class Product
+    public class Product
     {
         public int ProductID { get; set; }
 

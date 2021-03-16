@@ -6,6 +6,7 @@ namespace Packt.Shared
     public class Category
     {
         // these properties map to columns in the database
+        
         public int CateoryID { get; set; }
         public string CategoryName { get; set; }
 
